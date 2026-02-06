@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore the system Trash/Recycle Bin directory
+.Trash/
+.Trashes/
+
 # C extensions
 *.so
 
